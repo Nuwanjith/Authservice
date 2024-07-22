@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GIT\\17072024\\AuthService\\AuthService.csproj": {}
+    "D:\\GIT\\17072024\\Authservice\\AuthService\\AuthService.csproj": {}
   },
   "projects": {
-    "D:\\GIT\\17072024\\AuthService\\AuthService.csproj": {
+    "D:\\GIT\\17072024\\Authservice\\AuthService\\AuthService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GIT\\17072024\\AuthService\\AuthService.csproj",
+        "projectUniqueName": "D:\\GIT\\17072024\\Authservice\\AuthService\\AuthService.csproj",
         "projectName": "AuthService",
-        "projectPath": "D:\\GIT\\17072024\\AuthService\\AuthService.csproj",
+        "projectPath": "D:\\GIT\\17072024\\Authservice\\AuthService\\AuthService.csproj",
         "packagesPath": "C:\\Users\\nuwanjiths\\.nuget\\packages\\",
-        "outputPath": "D:\\GIT\\17072024\\AuthService\\obj\\",
+        "outputPath": "D:\\GIT\\17072024\\Authservice\\AuthService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nuwanjiths\\AppData\\Roaming\\NuGet\\NuGet.Config"
