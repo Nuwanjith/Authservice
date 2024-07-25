@@ -85,3 +85,4 @@ D:\GIT\17072024\Authservice\AuthService\obj\Debug\net8.0\AuthService.genruntimec
 D:\GIT\17072024\Authservice\AuthService\obj\Debug\net8.0\ref\AuthService.dll
 D:\GIT\17072024\Authservice\AuthService\obj\Debug\net8.0\AuthService.RazorAssemblyInfo.cache
 D:\GIT\17072024\Authservice\AuthService\obj\Debug\net8.0\AuthService.RazorAssemblyInfo.cs
+D:\GIT\17072024\Authservice\AuthService\bin\Debug\net8.0\AuthService.staticwebassets.runtime.json
