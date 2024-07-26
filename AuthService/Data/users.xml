@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <UserId>1</UserId>
+    <Username>john.doe</Username>
+    <Password>password123</Password>
+    <StudySessions>
+      <StudySession>
+        <SessionId>1</SessionId>
+        <UserId>1</UserId>
+        <Subject>Math</Subject>
+        <Duration>60</Duration>
+        <StartTime>2024-07-20T14:00:00</StartTime>
+        <EndTime>2024-07-20T15:00:00</EndTime>
+        <Date>2024-07-20</Date>
+      </StudySession>
+      <StudySession>
+        <SessionId>2</SessionId>
+        <UserId>1</UserId>
+        <Subject>Science</Subject>
+        <Duration>45</Duration>
+        <StartTime>2024-07-19T14:00:00</StartTime>
+        <EndTime>2024-07-19T14:45:00</EndTime>
+        <Date>2024-07-19</Date>
+      </StudySession>
+    </StudySessions>
+    <Breaks>
+      <Break>
+        <BreakId>1</BreakId>
+        <UserId>1</UserId>
+        <Description>Short break</Description>
+        <StartTime>2024-07-20T13:00:00</StartTime>
+        <EndTime>2024-07-20T13:10:00</EndTime>
+      </Break>
+      <Break>
+        <BreakId>2</BreakId>
+        <UserId>1</UserId>
+        <Description>Lunch break</Description>
+        <StartTime>2024-07-19T12:00:00</StartTime>
+        <EndTime>2024-07-19T13:00:00</EndTime>
+      </Break>
+    </Breaks>
+  </User>
+  <User>
+    <UserId>2</UserId>
+    <Username>jane.doe</Username>
+    <Password>password456</Password>
+    <StudySessions>
+      <StudySession>
+        <SessionId>3</SessionId>
+        <UserId>2</UserId>
+        <Subject>History</Subject>
+        <Duration>30</Duration>
+        <StartTime>2024-07-20T14:00:00</StartTime>
+        <EndTime>2024-07-20T14:30:00</EndTime>
+        <Date>2024-07-20</Date>
+      </StudySession>
+      <StudySession>
+        <SessionId>4</SessionId>
+        <UserId>2</UserId>
+        <Subject>Literature</Subject>
+        <Duration>75</Duration>
+        <StartTime>2024-07-18T14:00:00</StartTime>
+        <EndTime>2024-07-18T15:15:00</EndTime>
+        <Date>2024-07-18</Date>
+      </StudySession>
+    </StudySessions>
+    <Breaks>
+      <Break>
+        <BreakId>3</BreakId>
+        <UserId>2</UserId>
+        <Description>Coffee break</Description>
+        <StartTime>2024-07-20T12:00:00</StartTime>
+        <EndTime>2024-07-20T12:15:00</EndTime>
+        <Date>2024-07-18T12:15:00</Date>
+      </Break>
+      <Break>
+        <BreakId>4</BreakId>
+        <UserId>2</UserId>
+        <Description>Study group break</Description>
+        <StartTime>2024-07-18T15:00:00</StartTime>
+        <EndTime>2024-07-18T12:15:00</EndTime>
+      </Break>
+    </Breaks>
+  </User>
+</ArrayOfUser>

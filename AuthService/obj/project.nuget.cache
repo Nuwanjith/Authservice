@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sQRT26Tik/w=",
+  "dgSpecHash": "Q0Bx5TQAOyI=",
   "success": true,
-  "projectFilePath": "D:\\GIT\\17072024\\Authservice\\AuthService\\AuthService.csproj",
+  "projectFilePath": "D:\\GIT\\01_26072024\\Authservice\\AuthService\\AuthService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nuwanjiths\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
     "C:\\Users\\nuwanjiths\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.0\\microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",

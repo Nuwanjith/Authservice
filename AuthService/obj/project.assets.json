@@ -814,11 +814,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GIT\\17072024\\Authservice\\AuthService\\AuthService.csproj",
+      "projectUniqueName": "D:\\GIT\\01_26072024\\Authservice\\AuthService\\AuthService.csproj",
       "projectName": "AuthService",
-      "projectPath": "D:\\GIT\\17072024\\Authservice\\AuthService\\AuthService.csproj",
+      "projectPath": "D:\\GIT\\01_26072024\\Authservice\\AuthService\\AuthService.csproj",
       "packagesPath": "C:\\Users\\nuwanjiths\\.nuget\\packages\\",
-      "outputPath": "D:\\GIT\\17072024\\Authservice\\AuthService\\obj\\",
+      "outputPath": "D:\\GIT\\01_26072024\\Authservice\\AuthService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nuwanjiths\\AppData\\Roaming\\NuGet\\NuGet.Config"

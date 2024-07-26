@@ -9,23 +9,23 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AuthService
 build_property.RootNamespace = AuthService
-build_property.ProjectDir = D:\GIT\17072024\Authservice\AuthService\
+build_property.ProjectDir = D:\GIT\01_26072024\Authservice\AuthService\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\GIT\17072024\Authservice\AuthService
+build_property.MSBuildProjectDirectory = D:\GIT\01_26072024\Authservice\AuthService
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/GIT/17072024/Authservice/AuthService/Views/Auth/Login.cshtml]
+[D:/GIT/01_26072024/Authservice/AuthService/Views/Auth/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GIT/17072024/Authservice/AuthService/Views/Shared/_LayoutAfterLogin.cshtml]
+[D:/GIT/01_26072024/Authservice/AuthService/Views/Shared/_LayoutAfterLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZnRlckxvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/GIT/17072024/Authservice/AuthService/Views/Shared/_LayoutBeforeLogin.cshtml]
+[D:/GIT/01_26072024/Authservice/AuthService/Views/Shared/_LayoutBeforeLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRCZWZvcmVMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
