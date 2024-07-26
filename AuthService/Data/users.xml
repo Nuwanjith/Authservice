@@ -2,7 +2,7 @@
 <ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <User>
     <UserId>1</UserId>
-    <Username>john.doe</Username>
+    <Username>john.doel</Username>
     <Password>password123</Password>
     <StudySessions>
       <StudySession>

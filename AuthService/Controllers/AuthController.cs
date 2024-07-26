@@ -48,7 +48,7 @@ namespace AuthService.Controllers
                     Response.Cookies.Append("JwtToken", token, new CookieOptions { HttpOnly = true });
 
                     // Redirect to another microservice after successful login with userId parameter
-                    return Redirect($"http://localhost:5271/Home/Dashboard?userId={user.UserId}");
+                    return Redirect($"http://localhost:5270/Home/Dashboard");
                 }
 
                 ModelState.AddModelError(string.Empty, "Invalid login attempt.");

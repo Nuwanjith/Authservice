@@ -132,3 +132,4 @@ D:\GIT\01_26072024\Authservice\AuthService\obj\Debug\net8.0\refint\AuthService.d
 D:\GIT\01_26072024\Authservice\AuthService\obj\Debug\net8.0\AuthService.pdb
 D:\GIT\01_26072024\Authservice\AuthService\obj\Debug\net8.0\AuthService.genruntimeconfig.cache
 D:\GIT\01_26072024\Authservice\AuthService\obj\Debug\net8.0\ref\AuthService.dll
+D:\GIT\01_26072024\Authservice\AuthService\bin\Debug\net8.0\launchSettings.json
